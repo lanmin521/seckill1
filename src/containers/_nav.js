@@ -1,4 +1,13 @@
 export default [
+   //管理员界面
+   {
+    _tag: "CSidebarNavItem",
+    name: "Admin",
+    to: "/admin",
+    icon: "cil-chart-pie",
+  },
+
+  
   {
     _tag: "CSidebarNavItem",
     name: "Dashboard",
@@ -151,12 +160,16 @@ export default [
     to: "/charts",
     icon: "cil-chart-pie",
   },
-  {
-    _tag: "CSidebarNavItem",
-    name: "Admin",
-    to: "/admin",
-    icon: "cil-chart-pie",
-  },
+
+  //管理员界面
+  // {
+  //   _tag: "CSidebarNavItem",
+  //   name: "Admin",
+  //   to: "/admin",
+  //   icon: "cil-chart-pie",
+  // },
+
+  
   {
     _tag: "CSidebarNavDropdown",
     name: "Icons",

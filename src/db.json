@@ -1,0 +1,55 @@
+{
+    "login": [
+        {
+            "data": [
+                {
+                    "total": 10002,
+                    "pagenum": 1,
+                    "productId": 1,
+                    "code": "redmi",
+                    "productName": "cpu",
+                    "price": 22,
+                    "priceSpike": 1,
+                    "startTime": "manual",
+                    "endTime": "yyyy-MM-dd HH:mm:ss",
+                    "count": 100,
+                    "curCount": 10,
+                    "productStatus": "1"
+                },
+                {
+                    "total": 1000,
+                    "pagenum": 1,
+                    "productId": 1,
+                    "code": "redmi",
+                    "productName": "cpu",
+                    "price": 22,
+                    "priceSpike": 1,
+                    "startTime": "manual",
+                    "endTime": "yyyy-MM-dd HH:mm:ss",
+                    "count": 100,
+                    "curCount": 10,
+                    "productStatus": "1"
+                },
+                {
+                    "total": 1000,
+                    "pagenum": 1,
+                    "productId": 1,
+                    "code": "redmi",
+                    "productName": "cpu",
+                    "price": 22,
+                    "priceSpike": 1,
+                    "startTime": "manual",
+                    "endTime": "yyyy-MM-dd HH:mm:ss",
+                    "count": 100,
+                    "curCount": 10,
+                    "productStatus": "1"
+                }
+
+            ],
+            "meta": {
+                "msg": "获取成功",
+                "status": 200
+            }
+        }
+    ]
+}

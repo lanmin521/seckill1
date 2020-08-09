@@ -1,13 +1,13 @@
 import React, {Component} from 'react';
-import {Row , Input, Button} from 'antd';
+// import {Input } from 'antd';
 
-const { Search } = Input;
+// const { Search } = Input;
 class Header extends Component {
     render() {
         return (
             <div>
                 <div className="header"></div>
-                <div className="search">
+                {/* <div className="search">
                 <Search
                     placeholder="请输入名称"
                     onSearch={value => console.log(value)}
@@ -16,7 +16,7 @@ class Header extends Component {
                      <a href><Button>admin</Button></a>
                     {/* <a  href="../../../public/" target="_blank" rel="noopener noreferrer"><Button>admin</Button></a> */}
                     
-                </div>
+                {/* </div>  */}
             </div>
         );
     }

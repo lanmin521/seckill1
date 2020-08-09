@@ -5,6 +5,9 @@
     background-image:url(../imags/header.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    border:1px solid rgb(132, 202, 179);
+    /* border-radius: 5px; */
+    box-shadow:0px 0px 10px 5px rgb(132, 202, 179);
 }
 .search{
     margin: 20px;
@@ -36,3 +39,28 @@
 .info{
     vertical-align: middle;
 }
+
+.ant-modal-content{
+    width:400px;
+    border:1px solid rgb(109, 116, 113);
+    border-radius: 5px;
+    box-shadow:0px 0px 10px 5px rgb(109, 116, 113);
+}
+.site-page-header-ghost-wrapper{
+    border:1px solid rgb(211, 253, 235);
+    border-radius: 5px;
+    box-shadow:0px 0px 10px 5px rgb(198, 221, 211);
+    margin: 0;
+}
+
+/* 详细信息页 */
+.detailes{
+
+}
+.des_p{
+    padding: 5;
+    margin: 5;
+    font-size: 20px;
+    font-family: STXinwei;
+}
+
